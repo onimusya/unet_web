@@ -1,0 +1,314 @@
+:root {
+    --dark-blue: #182158;
+    --dark-blue-2: #192147;
+    --light-blue: #EAF1FA;
+    --royal-blue: #30D1FF;
+    --royal-blue-2: #A3A9F5;
+    --light-grey: #F6F3F2;
+}
+
+body{
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1{
+    font-size: 2.441rem;
+    line-height: 48px;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 1.953rem;
+    line-height: 40px;
+    font-weight: normal;
+}
+h3{
+    font-size: 1.25rem;
+    line-height: 32px;
+    font-weight: normal;
+}
+p{
+    font-size: 1rem;
+    line-height: 24px;
+}
+.pb-6{
+    padding-bottom: 6rem !important;
+}
+.bg-light{
+    background: var(--light-blue) !important;
+}
+.banner{
+    background-image: url("img/mobile_banner.png");
+    background-size: cover;
+}
+.banner-img{
+    background-image: url(img/banner_img.png);
+    background-repeat: no-repeat;
+    background-position: right bottom 50px;
+    background-size: 400px;
+}
+.text-blue{
+    color: var(--royal-blue);
+}
+.text-blue-2{
+    color: var(--royal-blue-2);
+}
+.text-light-grey{
+    color: var(--light-grey);
+}
+#mainNav {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#mainNav .navbar-toggler {
+    padding: 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+}
+#mainNav .navbar-brand {
+    color: #ffc800;
+    font-weight: 700;
+    letter-spacing: 0.0625em;
+}
+#mainNav .navbar-brand img {
+    height: 1.5rem;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+    font-size: 1rem;
+    color: #fff;
+    letter-spacing: 0.0625em;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: white;
+    border-radius: 100px;
+    background: black;
+}
+
+#staking-unet{
+    background-image: url("img/mobile_banner.png");
+    background-size: cover;
+    color: #ffffff;
+}
+.staking-unet-img{
+    background-image: url(img/staking-unet-img.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 400px;
+    padding-top: 3rem;
+    padding-bottom: 28rem;
+}
+
+.custom-search {
+    position: relative;
+    margin-top: 3rem;
+}
+
+@media (min-width: 992px) {
+    h1{
+        font-size: 3.815rem;
+        line-height: 80px;
+    }
+
+    h2{
+        font-size: 2.441rem;
+        line-height: 48px;
+    }
+    #mainNav {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        border: none;
+        background-color: transparent;
+        transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+    }
+    #mainNav .navbar-brand {
+        font-size: 1.5em;
+        transition: font-size 0.3s ease-in-out;
+    }
+    #mainNav .navbar-brand img {
+        height: 2rem;
+        transition: height 0.3s ease-in-out;
+    }
+    #mainNav.navbar-shrink {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        background-color: #212529;
+    }
+    #mainNav.navbar-shrink .navbar-brand {
+        font-size: 1rem;
+    }
+    #mainNav.navbar-shrink .navbar-brand svg,
+    #mainNav.navbar-shrink .navbar-brand img {
+        height: 1.5rem;
+    }
+    #mainNav .navbar-nav .nav-item {
+        margin-right: 4rem;
+    }
+    #mainNav .navbar-nav .nav-item:last-child {
+        margin-right: 0;
+    }
+    #modular-services{
+        padding: 6rem 10rem;
+    }
+    .section-info{
+        margin-bottom: 0;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .section-heading{
+        text-align: center !important;
+    }
+    .banner{
+        background-image: url("img/banner.png");
+        background-size: cover;
+    }
+    .banner-img{
+        background-image: url(img/banner_img.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 600px;
+    }
+    header.masthead {
+        padding-bottom: 15rem !important;
+    }
+    #staking-unet{
+        background-image: url("img/staking_unet_banner.png") !important;
+    }
+    .staking-unet-img{
+        background-image: url(img/staking-unet-img.svg);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 600px;
+        padding-top: 3rem;
+        padding-bottom: 15rem;
+    }
+    .custom-search{
+     margin-top: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    body{
+        width: fit-content;
+    }
+}
+header.masthead {
+    padding-top: 8rem;
+    padding-bottom: 25rem;
+    color: #fff;
+    text-align: left;
+}
+header.masthead .masthead-subheading {
+    font-size: 1.25rem;
+    line-height: 32px;
+    margin-bottom: 25px;
+    letter-spacing: 10px;
+}
+header.masthead .masthead-heading {
+    font-size: 3.815rem;
+    font-weight: 400;
+    line-height: 80px;
+    margin-bottom: 2rem;
+}
+
+.page-section{
+    padding: 6rem 0;
+}
+.section-heading{
+    padding-bottom: 6rem;
+}
+#multichain-marketplace{
+    color: var(--dark-blue);
+}
+#satellite-marketplaces{
+    color: var(--dark-blue-2);
+}
+
+.tag{
+    display: inline-block;
+    border-radius: 24px;
+    border: 1px solid var(--dark-blue-2);
+    vertical-align: middle;
+}
+
+.tag:hover {
+    background: black;
+    color: white;
+}
+
+.sponsor-bg{
+    background-image: url(img/events_sponsor_bg.png);
+    background-size: cover;
+    border-radius: 20px;
+    padding: 65px;
+    text-align: center;
+    height: 28vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#partners img.img-fluid:hover{
+    background: var(--royal-blue);
+}
+
+.footer{
+    background: #16215B;
+    color: #ffffff;
+}
+
+.border-bottom{
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.section-info{
+    margin-bottom: 3rem;
+}
+
+.section-heading{
+    text-align: left;
+}
+
+.custom-search-input {
+    width: 100%;
+    padding-right: 100px !important;
+    box-sizing: border-box;
+    border-radius: 100px !important;
+    background: transparent;
+    color: var(--royal-blue-2);
+}
+.custom-search-botton {
+    position: absolute !important;
+    right: 0;
+    line-height: 1 !important;
+    z-index: 4;
+    border-radius: 100px !important;
+    background: white;
+    color: black;
+    font-weight: 500;
+}
+
+.form-control:focus{
+    z-index: 0;
+    background: transparent;
+    color: var(--royal-blue-2);
+}
+
+::placeholder {
+    color: var(--royal-blue-2) !important;
+    opacity: 1;
+}
+
+.custom-search-botton:hover{
+    background: #293EF4;
+    color: white;
+}
+
+
+

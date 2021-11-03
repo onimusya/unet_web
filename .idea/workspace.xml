@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e134f943-5dca-4217-b92d-8e2379c53097" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/events_sponsor_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iplo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iplo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/marketplace_launchplace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/marketplace_launchplace.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/metaverse_launchpad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/metaverse_launchpad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mobile_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nft_collectibles_launchpad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nft_collectibles_launchpad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsor2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sponsor3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/staking-unet-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/staking_unet_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/unet_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/unique_fans.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/unique_one.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/unique_one_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20AK2kzk41TW2KoLxmWamgJ3W7c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\unet\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\unet\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e134f943-5dca-4217-b92d-8e2379c53097" name="Changes" comment="" />
+      <created>1635481747271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635481747271</updated>
+      <workItem from="1635481752137" duration="1812000" />
+      <workItem from="1635735412856" duration="26000" />
+      <workItem from="1635761827959" duration="5707000" />
+      <workItem from="1635883943847" duration="31008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
