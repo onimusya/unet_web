@@ -292,6 +292,7 @@ header.masthead .masthead-heading {
     background: white;
     color: black;
     font-weight: 500;
+    width: 30%;
 }
 
 .form-control:focus{
