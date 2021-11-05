@@ -7,6 +7,17 @@
     --light-grey: #F6F3F2;
 }
 
+@font-face {
+    font-family: uxum;
+    src: url("fonts/UxumGrotesque-Medium.otf") format("opentype");
+}
+
+html,body{
+
+    overflow-x: hidden;
+
+}
+
 body{
     font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -15,6 +26,7 @@ h1{
     font-size: 2.441rem;
     line-height: 48px;
     font-weight: 400;
+    font-family: uxum, sans-serif, 'Roboto';
 }
 
 h2{
@@ -190,9 +202,9 @@ p{
 }
 
 @media (max-width: 600px) {
-    body{
-        width: fit-content;
-    }
+    /*body{*/
+    /*    width: fit-content;*/
+    /*}*/
 }
 header.masthead {
     padding-top: 8rem;
@@ -242,9 +254,8 @@ header.masthead .masthead-heading {
     background-image: url(img/events_sponsor_bg.png);
     background-size: cover;
     border-radius: 20px;
-    padding: 65px;
+    height: 300px;
     text-align: center;
-    height: 28vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -309,6 +320,14 @@ header.masthead .masthead-heading {
 .custom-search-botton:hover{
     background: #293EF4;
     color: white;
+}
+
+#partners{
+    text-align: -webkit-center;
+}
+
+#satellite-marketplaces .img-fluid{
+    height: 180px;
 }
 
 

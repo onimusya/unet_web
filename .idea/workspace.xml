@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e134f943-5dca-4217-b92d-8e2379c53097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/banner_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/events_sponsor_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/iplo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/iplo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/marketplace_launchplace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/marketplace_launchplace.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/metaverse_launchpad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/metaverse_launchpad.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mobile_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nft_collectibles_launchpad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nft_collectibles_launchpad.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sponsor1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sponsor2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sponsor3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/staking-unet-img.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/staking_unet_banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unet_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unique_fans.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unique_one.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unique_one_photo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -82,6 +59,8 @@
       <workItem from="1635735412856" duration="26000" />
       <workItem from="1635761827959" duration="5707000" />
       <workItem from="1635883943847" duration="32371000" />
+      <workItem from="1636077837726" duration="240000" />
+      <workItem from="1636078084486" duration="3844000" />
     </task>
     <servers />
   </component>
@@ -98,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
