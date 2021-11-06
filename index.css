@@ -43,6 +43,11 @@ p{
     font-size: 1rem;
     line-height: 24px;
 }
+
+.uxum{
+    font-family: uxum, sans-serif, 'Roboto';
+}
+
 .pb-6{
     padding-bottom: 6rem !important;
 }
@@ -114,6 +119,11 @@ p{
 .custom-search {
     position: relative;
     margin-top: 3rem;
+}
+
+.footer-link {
+    text-decoration: none;
+    cursor: pointer;
 }
 
 @media (min-width: 992px) {
@@ -424,5 +434,12 @@ header.masthead .masthead-heading {
     }
 }
 
+
+@media (max-width: 768px) {
+    header.masthead .masthead-heading {
+        font-size: 2.6rem;
+        line-height: 3.2rem;
+    }
+}
 
 
