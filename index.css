@@ -432,6 +432,12 @@ header.masthead .masthead-heading {
     .sponsor-bg{
         height: 300px;
     }
+
+    .col-md-8{
+        width: 64%;
+        margin-left: 1.5rem;
+        padding-top: 1.5rem;
+    }
 }
 
 
