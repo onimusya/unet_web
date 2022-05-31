@@ -304,7 +304,7 @@ header.masthead .masthead-heading {
     color: var(--royal-blue-2);
 }
 .custom-search-botton {
-    position: absolute !important;
+    /*position: absolute !important;*/
     right: 0;
     line-height: 1 !important;
     z-index: 4;
